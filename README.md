@@ -1,2 +1,2 @@
 # Credit-Card_Fraud_Detection
-This ia a credit card fraud detection project.
+This is a credit card fraud detection project.
